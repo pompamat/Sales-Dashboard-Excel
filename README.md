@@ -23,4 +23,4 @@ Dashboard umożliwia m.in.:
 
 ## 📸 Podgląd dashboardu
 
-![Sales Dashboard 2026](images/dashboard.png)
+![Sales Dashboard 2026](dashboard.png)
