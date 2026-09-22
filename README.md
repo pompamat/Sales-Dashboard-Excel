@@ -21,6 +21,12 @@ Dashboard umożliwia m.in.:
 
 ---
 
+## 📈 Wizualizacje i filtry
+
+Dashboard zawiera kilka interaktywnych wizualizacji: wykres liniowy przedstawiający **przychód i zysk brutto w ujęciu miesięcznym**, mapę pokazującą **przychód według kraju**, wykres słupkowy prezentujący **przychód według kategorii produktów** oraz zestawienie **Top 5 najlepiej sprzedających się produktów**. Dodatkowo dashboard można filtrować według **daty zamówienia, regionu, kanału sprzedaży oraz typu klienta**, co pozwala na szczegółową analizę wybranego obszaru sprzedaży.
+
+---
+
 ## 📸 Podgląd dashboardu
 
 ![Sales Dashboard 2026](dashboard.png)
